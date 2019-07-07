@@ -1,0 +1,12 @@
+*.swp
+*.pyc
+*.lock
+.idea/
+.venv/
+
+.coverage
+cover/
+
+build/
+dist/
+*egg-info/
